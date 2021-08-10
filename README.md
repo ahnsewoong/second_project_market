@@ -1,2 +1,5 @@
 # second_project_market
-jsp/mvc2/marketProject/mainPage.jsp(메인화면) 
+
+
+언어 : java 1.8 <br>
+도구 : eclipes <br>
